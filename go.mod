@@ -1,4 +1,4 @@
-module github.com/FastFilter/xorfilter
+module github.com/tnako/xorfilter
 
 go 1.22
 
